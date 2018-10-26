@@ -20,6 +20,10 @@
     [self customContentArchive];
     
 }
+- (void)test1
+{
+    
+}
 - (void)objArchiver
 {
     //归档(序列化)
