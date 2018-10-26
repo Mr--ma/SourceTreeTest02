@@ -28,6 +28,10 @@
 {
     
 }
+-(void)test22
+{
+    
+}
 - (void)objArchiver
 {
     //归档(序列化)
